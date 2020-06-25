@@ -14,7 +14,7 @@ import javax.persistence.TemporalType;
 
 
 @Entity
-
+//Spring Boot
 public class ScUserlog implements Serializable {
 	
 	/**
